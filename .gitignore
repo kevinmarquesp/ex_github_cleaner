@@ -25,5 +25,8 @@ ex_github_cleaner-*.tar
 # Temporary files, for example, from tests.
 /tmp/
 
-# Environment variables
+# Environment variables.
 .env
+
+# Local database file with the repositories data.
+data.sqlite3
