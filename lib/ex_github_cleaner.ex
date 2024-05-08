@@ -1,20 +1,5 @@
 defmodule ExGithubCleaner do
   @moduledoc """
-  Documentation for `ExGithubCleaner`.
+  TODO: Add a documentation for this module.
   """
-
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> ExGithubCleaner.hello()
-      :world
-
-  """
-  def hello do
-    # Use System.get_env("TOKEN") to access the environment variables now.
-
-    :world
-  end
 end

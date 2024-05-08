@@ -15,8 +15,8 @@ Then put that token in the `.env` file at the root of the project - Check the
 
 ## Todos
 
-+ [ ]   Remove the `hello` function from the project (and its test).
 + [ ]   Setup the routines to create a new SQLite3 database locally.
++ [x]   ~~Remove the `hello` function from the project (and its test).~~
 
 
 ## See Also
